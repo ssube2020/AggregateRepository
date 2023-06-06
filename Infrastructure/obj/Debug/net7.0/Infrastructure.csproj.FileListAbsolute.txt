@@ -1,0 +1,17 @@
+/Users/shakoss/Desktop/AggregationApp/Docker/Infrastructure/bin/Debug/net7.0/Infrastructure.deps.json
+/Users/shakoss/Desktop/AggregationApp/Docker/Infrastructure/bin/Debug/net7.0/Infrastructure.runtimeconfig.json
+/Users/shakoss/Desktop/AggregationApp/Docker/Infrastructure/bin/Debug/net7.0/Infrastructure.dll
+/Users/shakoss/Desktop/AggregationApp/Docker/Infrastructure/bin/Debug/net7.0/Infrastructure.pdb
+/Users/shakoss/Desktop/AggregationApp/Docker/Infrastructure/bin/Debug/net7.0/Core.dll
+/Users/shakoss/Desktop/AggregationApp/Docker/Infrastructure/bin/Debug/net7.0/Core.pdb
+/Users/shakoss/Desktop/AggregationApp/Docker/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/shakoss/Desktop/AggregationApp/Docker/Infrastructure/obj/Debug/net7.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shakoss/Desktop/AggregationApp/Docker/Infrastructure/obj/Debug/net7.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/shakoss/Desktop/AggregationApp/Docker/Infrastructure/obj/Debug/net7.0/Infrastructure.AssemblyInfo.cs
+/Users/shakoss/Desktop/AggregationApp/Docker/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/shakoss/Desktop/AggregationApp/Docker/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.CopyComplete
+/Users/shakoss/Desktop/AggregationApp/Docker/Infrastructure/obj/Debug/net7.0/Infrastructure.dll
+/Users/shakoss/Desktop/AggregationApp/Docker/Infrastructure/obj/Debug/net7.0/refint/Infrastructure.dll
+/Users/shakoss/Desktop/AggregationApp/Docker/Infrastructure/obj/Debug/net7.0/Infrastructure.pdb
+/Users/shakoss/Desktop/AggregationApp/Docker/Infrastructure/obj/Debug/net7.0/Infrastructure.genruntimeconfig.cache
+/Users/shakoss/Desktop/AggregationApp/Docker/Infrastructure/obj/Debug/net7.0/ref/Infrastructure.dll

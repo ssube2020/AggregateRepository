@@ -1,0 +1,31 @@
+name: dockercompose232193758867031609
+services:
+  api:
+    build:
+      context: /Users/shakoss/Desktop/AggregationApp/Docker/AggregateApp
+      dockerfile: Dockerfile
+    depends_on:
+      db:
+        condition: service_started
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 7069
+      published: "7069"
+      protocol: tcp
+  db:
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: Shalo199
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 1433
+      published: "1433"
+      protocol: tcp
+networks:
+  default:
+    name: dockercompose232193758867031609_default
